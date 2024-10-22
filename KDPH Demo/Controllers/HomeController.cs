@@ -2,6 +2,7 @@ using KDPH_Demo.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 /*Added for sync Testing*/
+/*Added for sync Testing from github to devops*/
 namespace KDPH_Demo.Controllers
 {
     public class HomeController : Controller
