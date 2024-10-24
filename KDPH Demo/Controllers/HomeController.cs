@@ -1,13 +1,7 @@
 using KDPH_Demo.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-/*Added for sync Testing*/
-/*Added for sync Testing from github to devops new*/
-/*Added for sync Testing from github to devops*/
-/*Test auto trigger*/
-/*Test auto trigger github*/
-/*Test auto trigger github2*/
-/*Test auto trigger 2*/
+
 namespace KDPH_Demo.Controllers
 {
     public class HomeController : Controller
