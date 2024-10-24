@@ -4,6 +4,7 @@ using System.Diagnostics;
 /*Added for sync Testing*/
 /*Added for sync Testing from github to devops new*/
 /*Added for sync Testing from github to devops*/
+/*Test auto trigger*/
 namespace KDPH_Demo.Controllers
 {
     public class HomeController : Controller
